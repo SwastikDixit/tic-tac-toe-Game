@@ -4,7 +4,7 @@ Welcome to the Tic Tac Toe game project! This project implements a simple browse
 
 ## Getting Started
 
-To play the game, simply open the `index.html` file in your web browser. You can also access the live demo [here](link_to_live_demo).
+To play the game, simply open the `index.html` file in your web browser. You can also access the live demo [here](https://swastikdixit.github.io/tic-tac-toe-Game/).
 
 ## How to Play
 
